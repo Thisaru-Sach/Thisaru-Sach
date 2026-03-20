@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="150" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 📫 Reach me at: **asthisaru@gmail.com**
+- 📫 Reach me at: **sachthisa@gmail.com**
 - 🌱 Currently exploring: **CI/CD pipelines, Kubernetes, Cloud services, fullstack web development and network security.**
 - ⚡ Fun fact: **I love create new solutions to real world problems.**
 
