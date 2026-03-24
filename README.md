@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://github.com/Thisaru">
-    <img height="180em" src="https://streak-stats.demolab.com?user=thisaru-sachintha&theme=tokyonight&hide_border=true&border_radius=10"/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=thisaru-Sach&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
   
 </div>
