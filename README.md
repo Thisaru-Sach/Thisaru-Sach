@@ -22,8 +22,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Thisaru">
-    <img height="180em" src="https://streak-stats.demolab.com?user=thisaru-Sach&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <a href="https://github.com/Thisaru-Sach">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Thisaru-Sach&theme=tokyonight&hide_border=true&border_radius=10"/>
   </a>
   
 </div>
